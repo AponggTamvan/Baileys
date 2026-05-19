@@ -1,5 +1,5 @@
 {
-    "name": "DevilFight/Baileys",
+    "name": "DeltaXSakata/Baileys",
     "version": "1.0.7",
     "description": "WhatsApp API Modification",
     "keywords": [
@@ -15,7 +15,7 @@
         "url": "https://npmjs.com/@devil-fight/baileys"
     },
     "license": "MIT",
-    "author": "Devil Fight",
+    "author": "Delta",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
     "files": [
